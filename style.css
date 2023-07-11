@@ -1,0 +1,38 @@
+#copy_right_footer{
+position:fixed;
+bottom:0;
+width:100%;
+text-align: center;
+background-color: lightgoldenrodyellow;
+}
+h4{
+  font-size: 25px; 
+  padding-top: 12px;
+ }
+body{
+    background-color: cornflowerblue;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-weight: 700;
+}
+#camera
+{
+border-radius: 10px;
+border-color:cornsilk;
+width:450px;
+height:340px; 
+
+}
+img{
+width: 380px;
+padding: 15px;
+box-shadow: 0 6px 8px 0 rgb(90, 90, 90) ;
+border-color:red;
+}
+img:hover{
+    border-radius: 70px;
+    width: 390px;
+
+}
